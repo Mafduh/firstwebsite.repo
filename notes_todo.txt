@@ -1,0 +1,22 @@
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+   display: flex;
+    flex-direction: row;
+    height: 90px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+
+make the grid for the nave buttons fixed and resize based on the size of the page
+next center align the text 
+then ad a social media bar at the bottom 
+study web3 website for insperation 
+find better color scheme
+write the javascript for the database of the different images 
+implament jave script 
+host on git hub
