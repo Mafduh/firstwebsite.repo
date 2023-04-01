@@ -1,1 +1,1 @@
-# firstwebsite adding features based on most current knowledge
+#Toy website to add new stuff I wanna try, without having to think of a project around around it.
